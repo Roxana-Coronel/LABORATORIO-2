@@ -1,0 +1,87 @@
+ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	background-color: #CFC0C0;
+	text-align: center;
+
+}
+li{
+	display: inline-block;
+}
+a{
+	font-family: 'Acme', sans-serif;
+	font-family: 'Ubuntu Condensed', sans-serif;
+	text-decoration: none;
+	font-size:  20px;
+	display: block;
+	padding: 6px;
+	color: #5C5C82;
+}
+a:hover{
+color:#FFF;
+background-color: #ACDBFF;
+border-right-width: 5px;
+border.border-right-color: #AEAEAE;
+}
+h1{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 40px;
+	color: #7C4242;
+}
+h2{
+	font-size: 25px;
+	color: #E6DADA;
+	border: 1px solid grey;
+	margin-top: 25px;
+
+}
+h3{
+	font-size: 25px;
+	color: #544E4E;
+} 
+.p1{
+	font-family: 'Acme', sans-serif;
+	font-family: 'Ubuntu Condensed', sans-serif;
+	font-size: 20px;
+}
+h4{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 25px;
+	color: #7C4242;
+}
+img{
+	display: block;
+	margin: 0 auto;
+	border: 1px solid#8A8686;
+	padding: 5px;
+}
+h5{
+	text-align: center;
+	color: #DDCCCC;
+	font-size: 10px;
+}
+.s1{
+	color: #B37676;
+}
+.s2{
+	color: #95A0CD;
+	font-size: 10px;
+}
+.s3{
+	color: #76ACE4;
+	font-size: 15px;
+}
+iframe{
+	display: block;
+	margin: 0 auto;
+}
+.caja{
+	background-color: black;
+	padding: 70px;
+	margin: 0 auto;
+	color: white;
+}
+.logo{
+	margin: 0;
+}
